@@ -1,0 +1,6 @@
+#玩家升级回调指令
+LvCmd:
+  - 'say 恭喜%Player%升级'
+  - 'say 恭喜%Player%升级'
+  - 'say 恭喜%Player%升级'
+

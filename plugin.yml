@@ -1,0 +1,7 @@
+name: SxLevelCmd
+main: shallowdream7.SLcmd.main
+version: 1.0
+author: ShallowDream7
+softdepend: [SX-Level]
+commands:
+  slc:
