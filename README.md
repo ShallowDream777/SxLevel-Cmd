@@ -1,3 +1,4 @@
 # SxLevel-Cmd
-基于SX-Level的指令回调插件
-不要忘了点星哦~
+开发版本:spigot-1.11.2
+支持版本 1.9+
+指令: /slc reload
